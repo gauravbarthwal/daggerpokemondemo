@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerPokemonDemo</string>
+    <string name="image_link">http://pokeapi.co/media/sprites/pokemon/%d.png</string>
+    <string name="image_link_new">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/%d.png</string>
+</resources>
